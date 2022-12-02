@@ -1,0 +1,36 @@
+C:\Users\Bodi\Desktop\project\project\bin\Debug\project.exe
+C:\Users\Bodi\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.exe
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.pdb
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.Intriductin_form.resources
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.choice1_Form.resources
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Bodi\Desktop\project\project\bin\Debug\bodi.sdf
+C:\Users\Bodi\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.birth_certificate_form.resources
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.menu_form.resources
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.id_data_form.resources
+C:\Users\Bodi\Desktop\project\project\obj\x86\Debug\project.id_cardForm.resources
+C:\Users\Bodi\Desktop\ACU\semester 4\event-driven\project\project\bin\Debug\project.exe.config
+C:\Users\Bodi\Desktop\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.exe
+C:\Users\Bodi\Desktop\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.pdb
+D:\BODI\ACU\semester 4\event-driven\project\project\bin\Debug\project.exe.config
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.exe
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.pdb
+D:\BODI\ACU\semester 4\event-driven\project\project\bin\Debug\bodi.sdf
+D:\BODI\ACU\semester 4\event-driven\project\project\bin\Debug\project.exe
+D:\BODI\ACU\semester 4\event-driven\project\project\bin\Debug\project.pdb
+D:\BODI\ACU\semester 4\event-driven\project\project\bin\Debug\System.Data.SqlServerCe.dll
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.csproj.AssemblyReference.cache
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.birth_certificate_form.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.choice1_Form.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.Intriductin_form.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.id_cardForm.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.id_data_form.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.menu_form.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.Properties.Resources.resources
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.csproj.GenerateResource.cache
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.csproj.CoreCompileInputs.cache
+D:\BODI\ACU\semester 4\event-driven\project\project\obj\x86\Debug\project.csproj.CopyComplete
